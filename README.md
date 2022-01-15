@@ -8,9 +8,9 @@
 * [Heroku](https://signup.heroku.com/) 注册
 * [GitHub](https://github.com/join?source=header-home) 注册
 
-### 2.Fork [本项目](https://github.com/VincentChanX/shadowsocks-over-websocket) 到个人账号下
+### 2.Fork [本项目](https://github.com/FreedomRoam4477/shadowsocks-over-websocket) 到个人账号下
 ![1](./imgs/1.jpg)
-进入 <https://github.com/VincentChanX/shadowsocks-over-websocket> 页面  ==>  Fork
+进入 <https://github.com/FreedomRoam4477/shadowsocks-over-websocket> 页面  ==>  Fork
 
 ---
 
@@ -66,13 +66,13 @@ Setting 页面 ==> Reveal Config Vars
 
 ### 命令行启动:
 1. 安装 [nodejs](https://nodejs.org/en/download/) 和 [git](https://git-scm.com/downloads)
-2. 执行 `git clone https://github.com/VincentChanX/shadowsocks-over-websocket.git` 命令
+2. 执行 `git clone https://github.com/FreedomRoam4477/shadowsocks-over-websocket.git` 命令
 1. **进到本项目目录**，执行`npm install` 命令
 2. 执行 `node local.js -s app名称.herokuapp.com -l 1080 -m 设置的加密算法 -k 设置的密码 -p 80` 命令，启动成功
 
 
 ## Chrome 浏览器配置
-1. 下载 [Chrome](http://www.google.cn/chrome/browser/desktop/index.html) 浏览器插件 [SwitchyOmega](https://github.com/VincentChanX/shadowsocks-over-websocket/raw/master/extensions/SwitchyOmega.crx)
+1. 下载 [Chrome](http://www.google.cn/chrome/browser/desktop/index.html) 浏览器插件 [SwitchyOmega](https://github.com/FreedomRoam4477/shadowsocks-over-websocket/raw/master/extensions/SwitchyOmega.crx)
 
 2. 安装 SwitchyOmega 插件：打开浏览器的扩展程序页面 [chrome://extensions](chrome://extensions)，把SwitchyOmega.crx文件拖放到浏览器扩展程序页面安装
 
